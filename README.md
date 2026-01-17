@@ -94,7 +94,7 @@ I build open-source tools, share knowledge, and explore smart, scalable digital 
 ## 📬 Connect With Me
 
 - [💼 LinkedIn](https://www.linkedin.com/in/khalid-hassan-8312947b/)
-- 📧 Email: [khalidhassan.dev@gmail.com](mailto:khalidhassan.dev@gmail.com)
+- 📧 Email: [khalidhassan.dev@gmail.com](mailto:khalid1055@gmail.com)
 - [🐦 Twitter](https://twitter.com/yourusername)
 
 ---
